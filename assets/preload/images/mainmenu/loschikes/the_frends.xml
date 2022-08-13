@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="the_frends.png"><SubTexture name="the_frends idle0000" x="0" y="0" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0001" x="750" y="0" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0002" x="0" y="561" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0003" x="750" y="561" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0004" x="1500" y="0" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0005" x="1500" y="561" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0006" x="0" y="1122" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0007" x="750" y="1122" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0008" x="1500" y="1122" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+<SubTexture name="the_frends idle0009" x="0" y="1683" width="750" height="561" frameX="0" frameY="0" frameWidth="750" frameHeight="561" />
+</TextureAtlas>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cabisccraft_2.png"><SubTexture name="cabisccraft_2 idledance0000" x="0" y="0" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0001" x="543" y="0" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0002" x="1086" y="0" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0003" x="0" y="750" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0004" x="543" y="750" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0005" x="1086" y="750" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0006" x="1629" y="0" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0007" x="1629" y="750" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0008" x="2172" y="0" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0009" x="2172" y="750" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0010" x="0" y="1500" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0011" x="543" y="1500" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0012" x="1086" y="1500" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0013" x="1629" y="1500" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0014" x="2172" y="1500" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0015" x="2715" y="0" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0016" x="2715" y="750" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0017" x="2715" y="1500" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 idledance0018" x="0" y="2250" width="543" height="750" frameX="0" frameY="0" frameWidth="543" frameHeight="750" />
+<SubTexture name="cabisccraft_2 singUP0000" x="543" y="2250" width="480" height="705" frameX="-26" frameY="-8" frameWidth="558" frameHeight="728" />
+<SubTexture name="cabisccraft_2 singDOWN0000" x="2305" y="2250" width="653" height="141" frameX="0" frameY="-24" frameWidth="653" frameHeight="165" />
+<SubTexture name="cabisccraft_2 singLEFT0000" x="1705" y="2250" width="600" height="516" frameX="-67" frameY="-14" frameWidth="718" frameHeight="583" />
+<SubTexture name="cabisccraft_2 singRIGHT0000" x="1023" y="2250" width="682" height="687" frameX="0" frameY="0" frameWidth="682" frameHeight="687" />
+</TextureAtlas>

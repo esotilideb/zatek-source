@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Zatek.png"><SubTexture name="Zatek Right0000" x="677" y="0" width="222" height="228" frameX="-57" frameY="-53" frameWidth="317" frameHeight="317" />
+<SubTexture name="Zatek Left0000" x="211" y="0" width="257" height="243" frameX="0" frameY="-41" frameWidth="317" frameHeight="317" />
+<SubTexture name="Zatek Down0000" x="234" y="253" width="328" height="229" frameX="-72" frameY="-66" frameWidth="400" frameHeight="317" />
+<SubTexture name="Zatek Up0000" x="0" y="0" width="211" height="253" frameX="-60" frameY="-24" frameWidth="317" frameHeight="317" />
+<SubTexture name="Zatek Idle0000" x="496" y="485" width="279" height="177" frameX="-20" frameY="-103" frameWidth="317" frameHeight="317" />
+<SubTexture name="Zatek Idle0001" x="234" y="485" width="262" height="190" frameX="-27" frameY="-93" frameWidth="317" frameHeight="317" />
+<SubTexture name="Zatek Idle0002" x="0" y="485" width="234" height="212" frameX="-43" frameY="-68" frameWidth="317" frameHeight="317" />
+<SubTexture name="Zatek Idle0003" x="0" y="253" width="234" height="232" frameX="-43" frameY="-50" frameWidth="317" frameHeight="317" />
+<SubTexture name="Zatek Idle0004" x="468" y="0" width="209" height="238" frameX="-53" frameY="-43" frameWidth="317" frameHeight="317" />
+</TextureAtlas>

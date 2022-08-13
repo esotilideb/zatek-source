@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zateblue.png"><SubTexture name="zateblue IDLE0000" x="0" y="0" width="384" height="517" frameX="-111" frameY="-24" frameWidth="600" frameHeight="600" />
+<SubTexture name="zateblue IDLE0001" x="500" y="517" width="411" height="474" frameX="-91" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="zateblue IDLE0002" x="911" y="517" width="423" height="441" frameX="-90" frameY="-91" frameWidth="600" frameHeight="600" />
+<SubTexture name="zateblue UP0000" x="384" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="zateblue DOWN0000" x="1384" y="0" width="500" height="422" frameX="0" frameY="0" frameWidth="500" frameHeight="422" />
+<SubTexture name="zateblue LEFT0000" x="884" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="zateblue RIGHT0000" x="0" y="517" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

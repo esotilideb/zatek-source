@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sus idle.png"><SubTexture name="sus idle idle0000" x="0" y="0" width="317" height="310" frameX="-204" frameY="0" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0001" x="0" y="310" width="308" height="268" frameX="-160" frameY="-29" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0002" x="308" y="310" width="505" height="236" frameX="-117" frameY="-59" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0003" x="383" y="578" width="599" height="199" frameX="-73" frameY="-88" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0004" x="0" y="804" width="692" height="160" frameX="-30" frameY="-118" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0005" x="692" y="804" width="701" height="158" frameX="-26" frameY="-120" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0006" x="982" y="0" width="608" height="195" frameX="-69" frameY="-91" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0007" x="0" y="578" width="383" height="226" frameX="-113" frameY="-61" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0008" x="562" y="0" width="420" height="270" frameX="-156" frameY="-32" frameWidth="750" frameHeight="310" />
+<SubTexture name="sus idle idle0009" x="317" y="0" width="245" height="303" frameX="-200" frameY="-3" frameWidth="750" frameHeight="310" />
+</TextureAtlas>

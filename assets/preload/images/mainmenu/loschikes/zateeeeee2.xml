@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zateeeeee2.png"><SubTexture name="zateeeeee2 idle0000" x="750" y="2503" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0001" x="1500" y="2503" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0002" x="2250" y="2503" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0003" x="3692" y="0" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0004" x="3692" y="622" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0005" x="3692" y="1244" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0006" x="0" y="1881" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0007" x="750" y="1881" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0008" x="1500" y="1881" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0009" x="2942" y="0" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0010" x="2942" y="622" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0011" x="2942" y="1244" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0012" x="2942" y="1866" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 idle0013" x="0" y="2503" width="750" height="622" frameX="0" frameY="0" frameWidth="750" frameHeight="622" />
+<SubTexture name="zateeeeee2 down0000" x="2445" y="1254" width="348" height="164" frameX="-192" frameY="-19" frameWidth="750" frameHeight="190" />
+<SubTexture name="zateeeeee2 down0001" x="2205" y="1444" width="456" height="137" frameX="-139" frameY="-37" frameWidth="750" frameHeight="190" />
+<SubTexture name="zateeeeee2 down0002" x="2205" y="1581" width="562" height="111" frameX="-88" frameY="-55" frameWidth="750" frameHeight="190" />
+<SubTexture name="zateeeeee2 down0003" x="2205" y="1692" width="671" height="86" frameX="-34" frameY="-72" frameWidth="750" frameHeight="190" />
+<SubTexture name="zateeeeee2 down0004" x="2205" y="1254" width="240" height="190" frameX="-245" frameY="0" frameWidth="750" frameHeight="190" />
+<SubTexture name="zateeeeee2 left0000" x="2250" y="3125" width="750" height="455" frameX="0" frameY="0" frameWidth="750" frameHeight="455" />
+<SubTexture name="zateeeeee2 left0001" x="3000" y="3125" width="750" height="455" frameX="0" frameY="0" frameWidth="750" frameHeight="455" />
+<SubTexture name="zateeeeee2 left0002" x="0" y="3721" width="750" height="455" frameX="0" frameY="0" frameWidth="750" frameHeight="455" />
+<SubTexture name="zateeeeee2 left0003" x="750" y="3721" width="750" height="455" frameX="0" frameY="0" frameWidth="750" frameHeight="455" />
+<SubTexture name="zateeeeee2 left0004" x="1500" y="3721" width="750" height="455" frameX="0" frameY="0" frameWidth="750" frameHeight="455" />
+<SubTexture name="zateeeeee2 right0000" x="3692" y="1866" width="750" height="596" frameX="0" frameY="0" frameWidth="750" frameHeight="596" />
+<SubTexture name="zateeeeee2 right0001" x="3692" y="2462" width="750" height="596" frameX="0" frameY="0" frameWidth="750" frameHeight="596" />
+<SubTexture name="zateeeeee2 right0002" x="0" y="3125" width="750" height="596" frameX="0" frameY="0" frameWidth="750" frameHeight="596" />
+<SubTexture name="zateeeeee2 right0003" x="750" y="3125" width="750" height="596" frameX="0" frameY="0" frameWidth="750" frameHeight="596" />
+<SubTexture name="zateeeeee2 right0004" x="1500" y="3125" width="750" height="596" frameX="0" frameY="0" frameWidth="750" frameHeight="596" />
+<SubTexture name="zateeeeee2 up0000" x="0" y="0" width="737" height="627" frameX="-7" frameY="0" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0001" x="737" y="0" width="737" height="627" frameX="-7" frameY="0" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0002" x="0" y="627" width="737" height="627" frameX="-7" frameY="0" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0003" x="737" y="627" width="728" height="627" frameX="-9" frameY="-14" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0004" x="1474" y="0" width="731" height="627" frameX="-8" frameY="-11" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0005" x="0" y="1254" width="732" height="627" frameX="-8" frameY="-8" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0006" x="732" y="1254" width="734" height="627" frameX="-8" frameY="-5" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0007" x="1466" y="1254" width="736" height="627" frameX="-7" frameY="-2" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0008" x="2205" y="0" width="737" height="627" frameX="-7" frameY="0" frameWidth="750" frameHeight="641" />
+<SubTexture name="zateeeeee2 up0009" x="2205" y="627" width="737" height="627" frameX="-7" frameY="0" frameWidth="750" frameHeight="641" />
+</TextureAtlas>

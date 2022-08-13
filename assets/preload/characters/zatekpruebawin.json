@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "zateblue UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "zateblue IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-180
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zateblue RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-180
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zateblue LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-230
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "zateblue DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zateblue",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "zatek",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		255,
+		55
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

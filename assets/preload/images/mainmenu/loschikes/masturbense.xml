@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="masturbense.png"><SubTexture name="masturbense ayno0000" x="0" y="0" width="1175" height="1200" frameX="0" frameY="0" frameWidth="1175" frameHeight="1200" />
+<SubTexture name="masturbense down0000" x="1742" y="1200" width="320" height="316" frameX="0" frameY="0" frameWidth="320" frameHeight="316" />
+<SubTexture name="masturbense idle0000" x="750" y="1200" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="masturbense left0000" x="2062" y="1200" width="225" height="225" frameX="0" frameY="0" frameWidth="225" frameHeight="225" />
+<SubTexture name="masturbense right0000" x="0" y="1200" width="750" height="718" frameX="0" frameY="0" frameWidth="750" frameHeight="718" />
+<SubTexture name="masturbense skull0000" x="1175" y="0" width="1200" height="1172" frameX="0" frameY="0" frameWidth="1200" frameHeight="1172" />
+<SubTexture name="masturbense up0000" x="1262" y="1200" width="480" height="480" frameX="0" frameY="0" frameWidth="480" frameHeight="480" />
+</TextureAtlas>

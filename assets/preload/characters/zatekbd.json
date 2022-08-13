@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "zateeeeee2 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-370
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "zateeeeee2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zateeeeee2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "zateeeeee2 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-120
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zateeeeee2 right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bd/zateeeeee2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-zatek",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		255,
+		115
+	],
+	"camera_position": [
+		50,
+		260
+	],
+	"sing_duration": 7.29999999999999,
+	"scale": 0.6
+}
